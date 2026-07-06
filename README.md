@@ -1,0 +1,1 @@
+é só uma calculadora por enquanto...:(
