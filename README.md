@@ -1,1 +1,2 @@
-é só uma calculadora por enquanto...:(
+# CalculadoraRetro
+Uma calculadora retrô.
